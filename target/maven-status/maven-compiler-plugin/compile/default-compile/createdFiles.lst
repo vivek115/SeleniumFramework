@@ -1,0 +1,7 @@
+Pages\PIM.class
+Pages\Login.class
+ObjectFactory\Page.class
+ReportManager\Listener.class
+Pages\ConfigurationDropDown.class
+Pages\AddUser.class
+ReportManager\ExtentReport.class
